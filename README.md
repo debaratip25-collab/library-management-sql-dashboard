@@ -156,6 +156,10 @@ library-project/
 │   ├── app.py
 │   ├── Dockerfile
 │   └── requirements.txt
+├── screenshots/
+│   ├── dashboard 1
+│   ├── dashboard 2
+│   ├── docker view
 │
 ├── docker-compose.yml
 └── README.md
