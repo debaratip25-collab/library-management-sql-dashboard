@@ -145,7 +145,7 @@ http://localhost:8501
 ```
 library-project/
 │
-├── db/
+├── database/
 │   ├── schema.sql
 │   ├── base_data.sql
 │   ├── generate_data.sql
